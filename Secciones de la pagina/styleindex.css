@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    text-align: center;
+    color: white;
+    text-decoration: underline
+}
+
+h2 {
+    color: black;
+    margin-left: 5px;
+    font-style: italic;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-image: url(./img/wallpaperbetter.com_1920x1080.jpg);
+    background-size: cover;
+}
+
+
+nav {
+
+    background-color: green;
+
+}
+
+.HAMBRE01 {
+    padding-left: 10px;
+    color: grey;
+    font-weight: bolder;
+    font-style: normal;
+
+}
+
+.Hambre02 {
+    padding-top: 10px;
+    padding-left: 20px;
+    font-weight: bold;
+    border: solid 6px blue
+}
+
+.ns {
+    padding-top: 50px;
+    margin-left: 50%;
+    color: white;
+
+}
+
+.Infocontactos {
+    color: aliceblue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.Sesion {
+    padding-left: 50%;
+    text-align: center;
+    
+}
